@@ -1,0 +1,17 @@
+{
+  "title": "Offline Document Workflows on Android: A Source-Level Study of PDF and Office Writers",
+  "description": "Source-level study of separate Android PDF workflows and a minimal Office-format prototype, with one Apache POI reader fixture and a proposed wider interoperability protocol.",
+  "creators": [
+    {
+      "name": "Fadilah, Ikbal",
+      "affiliation": "Causyne",
+      "orcid": "0009-0008-4853-135X"
+    }
+  ],
+  "resource_type": {
+    "type": "publication",
+    "subtype": "preprint"
+  },
+  "access_right": "open",
+  "license": "cc-by-4.0"
+}

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research code, cite it using the information below and cite the accompanying preprint when relying on its findings."
+authors:
+  - family-names: "Fadilah"
+    given-names: "Ikbal"
+    orcid: "https://orcid.org/0009-0008-4853-135X"
+title: "Experimental Offline Document Writers"
+license: MIT
+type: software

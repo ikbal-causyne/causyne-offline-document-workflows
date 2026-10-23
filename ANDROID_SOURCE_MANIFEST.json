@@ -1,0 +1,19 @@
+{
+  "origin": "Vanexa Android application",
+  "git_head_at_extraction": "75a111a91fca56d0a24885fe276c2bb0cd3af347",
+  "note": "Selected, unmodified source files from the working tree. They are not a standalone Android project.",
+  "files": [
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/util/PdfTools.kt",
+      "sha256": "5593913fbc90516dac7f59e4a559b300fb6e7ecf30c1869b900fcc3e437cd64e"
+    },
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/presentation/tools/PdfToolScreen.kt",
+      "sha256": "ce5ebc2c57f2255957d16c4aa15fa3a7504262f258fdc86b7a66800c679ad339"
+    },
+    {
+      "source_path": "app/src/main/java/com/vanexa/supercalculator/presentation/ai/ExportHelper.kt",
+      "sha256": "064a3fb78baa3f5d10a4e64357b221e2439e8d678f80b6bd7efaccf9a6d9f67b"
+    }
+  ]
+}
