@@ -1,4 +1,8 @@
-# Offline Document Writer Prototype
+# Offline Document Workflows on Android: A Source-Level Study of PDF and Office Writers
+
+**Read the paper:** [10-page PDF](paper/paper2_review.pdf) · [LaTeX source](paper/main.tex)
+
+This is a publicly available working preprint, not a peer-reviewed article. The paper and code are separate research outputs; cite the paper for its analysis and the repository for code reuse. No journal publication or DOI is claimed.
 
 A source-level study of Causyne's Android PDF workflows. Selected, unchanged Android implementation files are under `android-source/`; `ANDROID_SOURCE_MANIFEST.json` records their original paths and hashes. They are a source snapshot, not a standalone Android app.
 
