@@ -1,5 +1,7 @@
 # Offline Document Workflows on Android: A Source-Level Study of PDF and Office Writers
 
+[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23600894.svg)](https://doi.org/10.5281/zenodo.23600894)
+
 **Read the paper:** [10-page PDF](paper/paper2_review.pdf) · [LaTeX source](paper/main.tex)
 
 This public preprint is published on Zenodo ([DOI: 10.5281/zenodo.23600894](https://doi.org/10.5281/zenodo.23600894)), and has not been peer reviewed. Cite the paper for its analysis and this repository for code reuse. No journal publication is claimed.
